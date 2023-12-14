@@ -1,0 +1,7 @@
+[libraries]
+springCore = { module = "org.springframework:spring-core", version = "6.1.1" }
+springCore5 = { module = "org.springframework:spring-core", version = "5.3.31" }
+reactive = { module = "io.projectreactor:reactor-core", version = "3.6.0" }
+
+[plugins]
+jvm = { id = "org.jetbrains.kotlin.jvm", version = "1.9.20" }
